@@ -1,0 +1,425 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	margin: 0;
+}
+.th{
+font-size: 23px;	
+font-family:Maiandra GD;
+padding-right: 30px;
+	color:rgba(87,90,137,1.00);
+	text-decoration:none;
+}
+.th:hover{
+font-size: 23px;
+
+font-family:Maiandra GD;
+padding-right: 30px;
+	color: white;
+	text-decoration:none;
+}
+.th1{
+font-size: 30px;	
+font-family:Maiandra GD;	
+padding-right:550px;
+	color:#2F2E41;
+	
+}
+.th1:hover{
+font-size: 30px;	
+font-family:Maiandra GD;
+margin-right: 550px;
+color:white;
+	
+}
+.table{
+	margin-left: 50px;
+	padding-top:25px;
+	
+}
+.section{
+background-color: rgba(255,82,51,1.00);	
+height: 430px;	
+}
+.section1{
+
+height: 450px;	
+	margin-top:111px;
+}
+.img1{
+width: 370px;
+margin-left: 750px;
+padding-top: 60px;
+}
+.h1{
+font-size: 25px;	
+font-family:Maiandra GD;
+	color: white;
+}
+.mar-left{
+margin-top: -255px;	
+width: 330px;	
+padding-left:130px;
+font-family:Maiandra GD;
+	color: white;
+}
+.play{
+	text-decoration:none;
+	font-family: Tahoma;
+	font-size: 18px;
+	padding-left:125px;
+	color:rgba(178,36,36,1.00);
+	font-weight: 100;
+	margin-top:-5px;
+}
+.play:hover{text-decoration:none;
+	font-family: Tahoma;
+	font-size: 18px;
+	padding-left:125px;
+	color: white;
+	margin-top:-5px;
+}
+.play1{
+	text-decoration:none;
+	font-family: Tahoma;
+	font-size: 18px;
+	color:rgba(178,36,36,1.00);
+}
+.play1:hover{
+text-decoration:none;
+	font-family: Tahoma;
+	font-size: 18px;	
+	color: white;
+}
+.img2{
+width:37px;	
+margin-right: 10px;	
+	margin-top: 5px;
+}
+.span{
+	color:rgba(178,36,36,1.00);
+}
+.h2{
+	font-family:Maiandra GD;	
+	text-align: center;
+	padding-top:70px;
+	font-size: 30px;
+	color:rgba(87,90,137,1.00);
+	
+}
+.img3{
+width: 40px;
+padding-left:100px;
+}
+.divh1{
+font-family:Maiandra GD;
+font-size:15px;	
+padding-left: 35px;
+color:rgba(47,46,65,1.00);
+}
+.divp{
+font-family:Maiandra GD;	
+font-size:13px;	
+
+text-align: center;
+}
+.div1{
+width: 250px;	
+margin-top: -290px;
+margin-left:145px;
+
+}
+.img4{
+width: 40px;
+padding-left:100px;
+}
+.divh2{
+font-family:Maiandra GD;
+font-size:15px;	
+padding-left: 45px;
+color:rgba(47,46,65,1.00);
+}
+.divp1{
+font-family:Maiandra GD;	
+font-size:13px;	
+
+text-align: center;
+}
+.div2{
+width: 250px;	
+margin-top: -155px;
+margin-left:520px;
+
+}
+.img5{
+width: 40px;
+padding-left:100px;
+}
+.divh3{
+font-family:Maiandra GD;	
+font-size:15px;	
+padding-left: 45px;
+color:rgba(47,46,65,1.00);
+}
+.divp2{
+font-family:Maiandra GD;	
+font-size:13px;	
+
+text-align: center;
+}
+.div3{
+width: 250px;	
+margin-top: -150px;
+margin-left:890px;
+
+}
+.section2{
+//background-color:#8285AF;
+	background-color:rgba(155,158,191,1.00);
+height: 500px;	
+	margin-top:448px;
+}
+.div4h3{
+font-size: 25px;	
+margin-left:22px;
+font-family:Maiandra GD;
+color: #2F2E41;	
+	
+}
+li{
+	padding-bottom: 15px;
+}
+.div4{
+font-family:Maiandra GD;	
+margin-left:200px;
+margin-top:80px;
+	color:#3F3D56;
+}
+.co{
+	color: #C41E00;
+}
+.img6{
+width:350px;
+margin-left: 570px;
+margin-top:-380px;
+}
+.section3{
+
+height: 450px;	
+margin-top:-25px;	
+	
+}
+.di1{
+width: 310px;	
+margin-top: 35px;
+margin-left:95px;
+border-left: 3px solid #B22424;
+padding-left:15px;
+	font-family:Maiandra GD;
+	padding-bottom: 5px;
+
+}
+.di1p{
+	font-size: 15px;
+	padding-top:3px;
+	padding-bottom: 5px;
+	
+}
+.di2{
+width: 310px;	
+margin-top: 35px;
+margin-left:55px;
+border-left: 3px solid #B22424;
+padding-left:15px;
+	font-family:Maiandra GD;
+	padding-bottom: 5px;
+
+}
+.di2p{
+	font-size: 15px;
+	padding-top:3px;
+	padding-bottom: 5px;
+	
+}
+.di21p{
+	font-size: 15px;
+	padding-top:3px;
+	padding-bottom: 5px;
+	color: #FFFFFF;
+}
+
+.dimg{
+border-radius: 100%;	
+width: 60px;		
+}
+
+.di2mg{
+border-radius: 100%;	
+width: 60px;		
+}
+.p{
+	margin-top: -47px;
+	margin-left: 65px;
+}
+.p1{
+	margin-top: -17px;
+	margin-left: 65px;
+	font-size: 13.5px;
+}
+.section4{
+
+height: 350px;	
+margin-top:-80px;	
+	
+}
+.table1{
+margin-left:225px; 	
+margin-top:60px;
+}
+.th2{
+	width: 45px;
+	margin-right:110px;
+}
+.section5{
+background-color: rgba(255,82,51,1.00);
+height: 270px;	
+margin-top:-25px;
+margin-bottom: -10px;
+	
+}
+.divv2{
+width: 310px;
+
+margin-left:40px;
+text-align: justify;
+padding-left:25px;
+padding-top:15px;
+padding-bottom: 15px;
+	font-family:Maiandra GD;
+}
+.div4h4{
+font-size: 23px;	
+margin-left:5px;
+font-family:Maiandra GD;	
+color: #2F2E41;		
+	
+}
+.divv3{
+
+width: 310px;
+margin-top: -183px;
+margin-left:500px;
+text-align: justify;
+padding-left:25px;
+padding-top:5px;
+padding-bottom:0px;
+	
+	font-family:Maiandra GD;
+}
+.im1{
+	width:23px;
+	padding-bottom:13px;
+	padding-left:30px;
+	
+}
+.im2{
+	width:25px;
+	padding-bottom: 13px;
+	padding-left:30px;
+	
+}
+.tbl{
+margin-top: -144px;	
+margin-left: 70px;	
+	color: #FFFFFF;
+}
+.td{
+margin-bottom:27px;	
+font-size: 15px;
+	color: #FFFFFF;
+	
+}
+.divv4{
+
+width: 310px;
+margin-top: -220px;
+margin-left:920px;
+text-align: justify;
+padding-left:25px;
+padding-top:15px;
+padding-bottom: 15px;
+	color: #FFFFFF;
+	font-family:Maiandra GD;
+}
+.input{
+	padding: 10px;
+font-size:15px;
+	width: 200px;
+	border-radius: 3px;
+	border: none;
+	font-family:Maiandra GD;
+	margin-top:5px;
+}
+.button{
+padding: 10px;	
+margin-left:75px;
+margin-top: 15px;
+	width: 70px;
+	background-color: #D20808;
+	border: none;
+	border-radius: 3px;
+	color: #FFFFFF;
+	font-size:15px;
+	font-family:Maiandra GD;
+}
+.button:hover{
+padding: 10px;	
+margin-left:75px;
+margin-top: 15px;
+	width: 70px;
+	background-color:#BC8487;
+	border: none;
+	border-radius: 3px;
+	color: #FFFFFF;
+	font-family:Maiandra GD;
+}
+.p2{
+	margin-top:17px;
+	margin-bottom:0px;
+	margin-left:63px;
+	font-family:  arial;	
+	color: #2F2E41;	
+}
+.a{
+text-decoration:none;
+color:white;	
+}
+.button1{
+margin-left:555px; 	
+margin-top: 40px;	
+padding:10px;	
+width: 170px;
+	background-color: #D20808;
+	border: none;
+	border-radius:5px;
+	color: #FFFFFF;
+	font-size:15px;
+	font-family:Maiandra GD;
+}
+.button1:hover{
+margin-left:555px; 	
+margin-top: 40px;	
+padding:10px;	
+width: 170px;
+	background-color:#2F2E41;
+	border: none;
+	border-radius:5px;
+	color: #FFFFFF;
+	font-size:15px;
+	font-family:Maiandra GD;
+}
+
+
+
+
+
